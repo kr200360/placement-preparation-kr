@@ -1,16 +1,78 @@
-# Subject Notes
+# \# Subject Notes
 
-This folder contains my study notes for placement preparation.
+# 
 
-## Subjects
+# This folder contains my study notes for placement preparation, technical interviews, and revision.
 
-- [Operating Systems](OS/)
-- [Database Management Systems](DBMS/)
-- [Computer Networks](CN/)
-- [Object-Oriented Programming](OOP/)
-- [Java Programming](Java/)
-- [Data Structures and Algorithms](DSA/)
+# 
 
-## Purpose
+# \## Subjects
 
-To maintain organized notes, examples, revision material, and important interview concepts for each subject.
+# 
+
+# \- \[Operating Systems](OS/)
+
+# \- \[Database Management Systems](DBMS/)
+
+# \- \[Computer Networks](CN/)
+
+# \- \[Data Structures and Algorithms](DSA/)
+
+# \- \[Object-Oriented Programming](OOP/)
+
+# \- \[Java Programming](Java/)
+
+# \- \[System Design](System%20Design/)
+
+# 
+
+# \## Purpose
+
+# 
+
+# To maintain organized notes, coding examples, revision materials, important concepts, and interview preparation resources for each subject.
+
+# 
+
+# \## Folder Structure
+
+# 
+
+# ```text
+
+# Notes/
+
+# ├── CN/
+
+# ├── DBMS/
+
+# ├── DSA/
+
+# ├── Java/
+
+# ├── OOP/
+
+# ├── OS/
+
+# ├── System Design/
+
+# └── README.md
+
+# ```
+
+# 
+
+# \## Preparation Goals
+
+# 
+
+# \- Understand fundamental concepts of each subject.
+
+# \- Practice coding problems and implementation examples.
+
+# \- Prepare important technical interview questions.
+
+# \- Maintain concise revision notes for placement interviews.
+
+
+
